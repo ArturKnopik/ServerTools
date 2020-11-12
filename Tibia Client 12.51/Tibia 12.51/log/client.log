@@ -1,0 +1,1181 @@
+[ 2020-11-02 10:52:47,859 ] Asset loading complete
+[ 2020-11-02 10:52:59,120 ] News query failed: "Unrecognized event news."
+[ 2020-11-02 10:52:59,693 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-02 10:52:59,696 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 10:53:01,736 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-02 10:53:01,820 ] News query failed: "Unrecognized event news."
+[ 2020-11-02 10:53:02,736 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 10:53:04,786 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-02 10:53:04,805 ] Disconnected from gameserver
+[ 2020-11-02 10:53:08,220 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-02 10:53:08,221 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 10:53:10,287 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-02 10:53:10,353 ] News query failed: "Unrecognized event news."
+[ 2020-11-02 10:53:11,287 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 10:53:13,336 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-02 10:53:13,341 ] Disconnected from gameserver
+[ 2020-11-02 10:53:14,536 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-02 10:53:14,537 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 10:53:15,521 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 10:53:16,588 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-02 10:53:17,587 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 10:53:19,640 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-02 10:53:19,644 ] Disconnected from gameserver
+[ 2020-11-02 10:53:20,849 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-02 10:53:20,850 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 10:53:21,838 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 10:53:22,888 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-02 10:53:23,888 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 10:53:25,988 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-02 10:53:25,992 ] Disconnected from gameserver
+[ 2020-11-02 10:53:28,308 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-02 10:53:28,309 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 10:53:29,305 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 10:53:30,438 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-02 10:53:31,471 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 10:53:32,989 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 10:53:59,988 ] Asset loading complete
+[ 2020-11-02 10:54:10,791 ] News query failed: "Unrecognized event news."
+[ 2020-11-02 10:54:17,044 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-02 10:54:17,046 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 10:54:17,057 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 10:54:18,108 ] News query failed: "Unrecognized event news."
+[ 2020-11-02 10:54:40,559 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-02 10:54:40,623 ] Disconnected from gameserver
+[ 2020-11-02 10:54:40,759 ] News query failed: "Unrecognized event news."
+[ 2020-11-02 10:54:56,637 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-02 10:54:56,638 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 10:54:57,627 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 10:54:58,694 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-02 10:54:59,695 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 10:55:01,745 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-02 10:55:01,750 ] Disconnected from gameserver
+[ 2020-11-02 10:55:02,984 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-02 10:55:02,985 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 10:55:03,979 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 10:55:05,062 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-02 10:55:06,095 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 10:55:06,112 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 10:59:04,790 ] Asset loading complete
+[ 2020-11-02 10:59:13,363 ] News query failed: "Unrecognized event news."
+[ 2020-11-02 10:59:14,145 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-02 10:59:14,196 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 10:59:14,213 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 10:59:15,196 ] News query failed: "Unrecognized event news."
+[ 2020-11-02 11:02:13,947 ] Asset loading complete
+[ 2020-11-02 11:02:16,576 ] News query failed: "Unrecognized event news."
+[ 2020-11-02 11:02:17,372 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-02 11:02:17,376 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:02:17,393 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:02:18,443 ] News query failed: "Unrecognized event news."
+[ 2020-11-02 11:03:43,867 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-02 11:03:43,958 ] Disconnected from gameserver
+[ 2020-11-02 11:03:45,184 ] News query failed: "Unrecognized event news."
+[ 2020-11-02 11:03:46,910 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-02 11:03:46,912 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:03:47,884 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 11:03:48,967 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-02 11:03:49,967 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:03:52,017 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-02 11:03:52,022 ] Disconnected from gameserver
+[ 2020-11-02 11:03:53,231 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-02 11:03:53,233 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:03:54,217 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 11:03:54,234 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:03:54,367 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-02 11:03:54,378 ] Disconnected from gameserver
+[ 2020-11-02 11:04:04,685 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 11:04:04,923 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-02 11:04:04,925 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:04:04,935 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:04:04,952 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-02 11:04:04,957 ] Disconnected from gameserver
+[ 2020-11-02 11:04:05,902 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 11:06:52,097 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 11:06:52,652 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-02 11:06:52,654 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:06:53,647 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 11:06:54,714 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-02 11:06:55,714 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:06:57,765 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-02 11:06:57,778 ] Disconnected from gameserver
+[ 2020-11-02 11:06:58,951 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-02 11:06:58,953 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:06:59,948 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 11:07:01,015 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-02 11:07:02,015 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:07:04,065 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-02 11:07:04,069 ] Disconnected from gameserver
+[ 2020-11-02 11:07:05,270 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-02 11:07:05,272 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:07:06,265 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 11:07:07,283 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:07:13,065 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-02 11:07:13,128 ] Disconnected from gameserver
+[ 2020-11-02 11:07:13,155 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 11:07:20,885 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 11:07:22,266 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik" )
+[ 2020-11-02 11:07:22,268 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:07:22,282 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:07:23,249 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 11:08:46,673 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-02 11:08:46,770 ] Disconnected from gameserver
+[ 2020-11-02 11:08:46,806 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 11:37:07,284 ] Asset loading complete
+[ 2020-11-02 11:37:09,795 ] News query failed: "Unrecognized event news."
+[ 2020-11-02 11:37:12,259 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik" )
+[ 2020-11-02 11:37:12,263 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:37:12,279 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:37:13,329 ] News query failed: "Unrecognized event news."
+[ 2020-11-02 11:37:19,111 ] Asset loading complete
+[ 2020-11-02 11:37:28,980 ] News query failed: "Unrecognized event news."
+[ 2020-11-02 11:37:30,244 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On" )
+[ 2020-11-02 11:37:30,247 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:37:30,258 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:37:31,314 ] News query failed: "Unrecognized event news."
+[ 2020-11-02 11:37:45,365 ] News query failed: "Unrecognized event news."
+[ 2020-11-02 11:37:45,515 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-02 11:37:45,579 ] Disconnected from gameserver
+[ 2020-11-02 11:37:45,688 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik" )
+[ 2020-11-02 11:37:45,690 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:37:45,701 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:37:46,682 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 11:37:48,032 ] News query failed: "Unrecognized event news."
+[ 2020-11-02 11:37:48,132 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-02 11:37:48,200 ] Disconnected from gameserver
+[ 2020-11-02 11:37:48,298 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On" )
+[ 2020-11-02 11:37:48,301 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:37:48,315 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:37:49,282 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 11:38:23,134 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-02 11:38:23,202 ] Disconnected from gameserver
+[ 2020-11-02 11:38:23,239 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 11:38:23,914 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On" )
+[ 2020-11-02 11:38:23,915 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:38:23,926 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:38:24,902 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 11:39:50,076 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-02 11:39:50,179 ] Disconnected from gameserver
+[ 2020-11-02 11:39:50,215 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 11:39:51,282 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-02 11:39:51,284 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:39:51,294 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:39:52,259 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 11:41:59,318 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-02 11:41:59,385 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-02 11:41:59,386 ] Disconnected from gameserver
+[ 2020-11-02 11:41:59,421 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 11:41:59,455 ] Disconnected from gameserver
+[ 2020-11-02 11:41:59,491 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 11:42:19,222 ] Asset loading complete
+[ 2020-11-02 11:42:25,519 ] News query failed: "Unrecognized event news."
+[ 2020-11-02 11:42:26,484 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik" )
+[ 2020-11-02 11:42:26,488 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:42:26,502 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:42:27,569 ] News query failed: "Unrecognized event news."
+[ 2020-11-02 11:42:57,538 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-02 11:42:57,605 ] Disconnected from gameserver
+[ 2020-11-02 11:42:57,739 ] News query failed: "Unrecognized event news."
+[ 2020-11-02 11:42:58,261 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On" )
+[ 2020-11-02 11:42:58,263 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:42:58,274 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:42:59,239 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 11:43:05,640 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-02 11:43:05,752 ] Disconnected from gameserver
+[ 2020-11-02 11:43:05,788 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 11:43:06,388 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik" )
+[ 2020-11-02 11:43:06,389 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:43:06,406 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:43:07,373 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 11:48:41,150 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-02 11:48:41,219 ] Disconnected from gameserver
+[ 2020-11-02 11:48:41,255 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 11:48:42,728 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik" )
+[ 2020-11-02 11:48:42,730 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:48:43,733 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 11:48:44,799 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-02 11:48:45,799 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:48:47,850 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-02 11:48:47,855 ] Disconnected from gameserver
+[ 2020-11-02 11:48:49,051 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik" )
+[ 2020-11-02 11:48:49,053 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:48:50,049 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 11:48:51,099 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-02 11:48:52,099 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:48:54,150 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-02 11:48:54,154 ] Disconnected from gameserver
+[ 2020-11-02 11:48:55,373 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik" )
+[ 2020-11-02 11:48:55,375 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:48:56,367 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 11:48:56,383 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:49:07,750 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-02 11:49:07,814 ] Disconnected from gameserver
+[ 2020-11-02 11:49:07,847 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 11:49:08,375 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On" )
+[ 2020-11-02 11:49:08,377 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:49:08,387 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-02 11:49:09,350 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-02 11:49:13,501 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-02 11:49:13,567 ] Disconnected from gameserver
+[ 2020-11-02 11:49:13,602 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:15:59,642 ] Asset loading complete
+[ 2020-11-07 20:16:03,039 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:16:03,817 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:16:03,821 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:16:03,858 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:16:04,839 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:17:26,021 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-07 20:17:26,168 ] Disconnected from gameserver
+[ 2020-11-07 20:17:26,514 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:17:28,390 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:17:28,411 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:17:29,395 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:17:32,477 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:17:33,477 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:17:37,527 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:17:37,537 ] Disconnected from gameserver
+[ 2020-11-07 20:17:38,835 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:17:38,836 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:17:39,760 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:17:42,876 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:17:43,876 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:17:47,925 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:17:47,929 ] Disconnected from gameserver
+[ 2020-11-07 20:17:49,194 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:17:49,208 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:17:50,159 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:17:53,275 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:17:54,274 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:17:58,324 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:17:58,334 ] Disconnected from gameserver
+[ 2020-11-07 20:17:59,605 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:17:59,624 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:18:00,557 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:18:03,724 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:18:04,724 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:18:08,823 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:18:08,832 ] Disconnected from gameserver
+[ 2020-11-07 20:18:11,320 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:18:11,339 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:18:12,206 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:18:15,422 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:18:16,421 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:18:20,471 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:18:20,478 ] Disconnected from gameserver
+[ 2020-11-07 20:18:25,164 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:18:25,172 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:18:26,088 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:18:29,221 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:18:30,270 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:18:34,319 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:18:34,327 ] Disconnected from gameserver
+[ 2020-11-07 20:18:40,144 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:18:40,152 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:18:41,068 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:18:44,218 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:18:45,218 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:18:49,268 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:18:49,273 ] Disconnected from gameserver
+[ 2020-11-07 20:18:55,028 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:18:55,033 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:18:56,000 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:18:59,067 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:19:00,116 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:19:04,167 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:19:04,179 ] Disconnected from gameserver
+[ 2020-11-07 20:19:09,928 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:19:09,931 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:19:10,898 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:19:13,964 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:19:14,965 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:19:19,014 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:19:19,022 ] Disconnected from gameserver
+[ 2020-11-07 20:19:24,783 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:19:24,796 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:19:25,730 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:19:28,879 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:19:29,879 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:19:33,914 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:19:33,945 ] Disconnected from gameserver
+[ 2020-11-07 20:22:59,954 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:23:00,305 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:23:00,319 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:23:01,238 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:23:04,370 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:23:05,370 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:23:09,419 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:23:09,429 ] Disconnected from gameserver
+[ 2020-11-07 20:23:10,953 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:23:10,974 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:23:11,868 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:23:15,018 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:23:16,017 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:23:20,068 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:23:20,080 ] Disconnected from gameserver
+[ 2020-11-07 20:23:21,452 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:23:21,468 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:23:22,383 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:23:26,166 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:23:27,216 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:23:27,849 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:24:55,073 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-07 20:24:55,169 ] Disconnected from gameserver
+[ 2020-11-07 20:24:55,329 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:24:57,427 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:24:57,437 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:24:58,374 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:25:01,521 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:25:02,570 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:25:06,620 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:25:06,629 ] Disconnected from gameserver
+[ 2020-11-07 20:25:07,906 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:25:07,919 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:25:08,853 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:25:11,969 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:25:12,969 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:25:17,019 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:25:17,029 ] Disconnected from gameserver
+[ 2020-11-07 20:25:18,338 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:25:18,338 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:25:19,285 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:25:22,368 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:25:23,368 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:25:27,467 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:25:27,477 ] Disconnected from gameserver
+[ 2020-11-07 20:25:28,762 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:25:28,767 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:25:29,717 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:25:32,816 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:25:33,816 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:25:37,867 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:25:37,887 ] Disconnected from gameserver
+[ 2020-11-07 20:25:40,254 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:25:40,266 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:25:41,215 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:25:44,315 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:25:45,315 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:25:49,364 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:25:49,371 ] Disconnected from gameserver
+[ 2020-11-07 20:25:53,974 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:25:53,980 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:25:54,931 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:25:58,016 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:25:59,064 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:26:03,114 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:26:03,128 ] Disconnected from gameserver
+[ 2020-11-07 20:26:08,860 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:26:08,878 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:26:09,813 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:26:12,928 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:26:13,927 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:26:17,979 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:26:17,996 ] Disconnected from gameserver
+[ 2020-11-07 20:26:23,749 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:26:23,761 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:26:24,710 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:26:27,825 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:26:28,826 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:26:32,876 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:26:32,884 ] Disconnected from gameserver
+[ 2020-11-07 20:26:38,652 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:26:38,659 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:26:39,592 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:26:42,724 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:26:43,724 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:26:47,773 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:26:47,781 ] Disconnected from gameserver
+[ 2020-11-07 20:26:53,583 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:26:53,590 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:26:54,507 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:26:57,672 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:26:58,672 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:27:02,722 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:27:02,731 ] Disconnected from gameserver
+[ 2020-11-07 20:29:26,054 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:29:26,520 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:29:26,521 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:29:27,438 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:29:30,571 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:29:31,570 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:29:35,620 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:29:35,631 ] Disconnected from gameserver
+[ 2020-11-07 20:29:37,172 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:29:37,173 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:29:38,105 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:29:41,219 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:29:42,065 ] Asset loading complete
+[ 2020-11-07 20:29:42,268 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:29:46,538 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:29:46,553 ] Disconnected from gameserver
+[ 2020-11-07 20:29:47,980 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:29:47,987 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:29:48,887 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:29:52,034 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:29:53,068 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:29:57,150 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:29:57,164 ] Disconnected from gameserver
+[ 2020-11-07 20:29:58,703 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:29:58,717 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:29:59,601 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:30:02,400 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:30:02,767 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:30:02,936 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:30:02,967 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:30:02,980 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:30:03,816 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:30:03,833 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:30:04,254 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-07 20:30:04,458 ] Disconnected from gameserver
+[ 2020-11-07 20:30:04,867 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:30:04,982 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:30:15,631 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:30:29,630 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:30:32,023 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 20:30:32,046 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:30:32,048 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:30:32,930 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:43:02,968 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-07 20:43:03,034 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-07 20:43:03,221 ] Disconnected from gameserver
+[ 2020-11-07 20:43:03,283 ] Disconnected from gameserver
+[ 2020-11-07 20:43:03,431 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:43:03,524 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:43:14,231 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:43:14,249 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:43:15,173 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:43:16,361 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 20:43:16,381 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:43:17,282 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:43:18,341 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:43:19,366 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:43:20,432 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:43:21,435 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:43:23,865 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:43:23,874 ] Disconnected from gameserver
+[ 2020-11-07 20:43:25,371 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:43:25,384 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:43:25,502 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:43:25,527 ] Disconnected from gameserver
+[ 2020-11-07 20:43:26,250 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:43:27,127 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 20:43:27,149 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:43:27,949 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:43:29,915 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:43:30,915 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:43:31,831 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:43:32,846 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:43:35,163 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:43:35,174 ] Disconnected from gameserver
+[ 2020-11-07 20:43:36,615 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:43:36,630 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:43:37,296 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:43:37,309 ] Disconnected from gameserver
+[ 2020-11-07 20:43:37,513 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:43:39,021 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 20:43:39,032 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:43:39,882 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:43:41,347 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:43:42,382 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:43:43,745 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:43:44,763 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:43:46,978 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:43:46,991 ] Disconnected from gameserver
+[ 2020-11-07 20:43:48,383 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:43:48,396 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:43:49,195 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:43:49,205 ] Disconnected from gameserver
+[ 2020-11-07 20:43:49,330 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:43:50,666 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 20:43:50,680 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:43:51,535 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:43:52,777 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:43:53,794 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:43:54,228 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:43:54,344 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:46:50,255 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-07 20:46:50,393 ] Disconnected from gameserver
+[ 2020-11-07 20:46:50,551 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:46:51,247 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 20:46:51,255 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:46:51,257 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:46:52,172 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:50:56,792 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:50:57,041 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-07 20:50:57,165 ] Disconnected from gameserver
+[ 2020-11-07 20:50:57,525 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 20:50:57,541 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:50:57,558 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:50:58,440 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:53:20,740 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-07 20:53:20,874 ] Disconnected from gameserver
+[ 2020-11-07 20:53:21,023 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:53:32,920 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 20:53:32,937 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:53:32,939 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:53:33,855 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:54:25,732 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-07 20:54:25,855 ] Disconnected from gameserver
+[ 2020-11-07 20:54:26,008 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:54:26,691 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 20:54:26,714 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:54:26,716 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:54:27,632 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:57:37,873 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-07 20:57:37,939 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-07 20:57:38,118 ] Disconnected from gameserver
+[ 2020-11-07 20:57:38,137 ] Disconnected from gameserver
+[ 2020-11-07 20:57:38,297 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:57:38,316 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:57:48,127 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:57:48,138 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:57:49,026 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:57:49,796 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 20:57:49,804 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:57:50,709 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:57:52,271 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:57:53,271 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:57:54,004 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:57:55,022 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:57:57,471 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:57:57,481 ] Disconnected from gameserver
+[ 2020-11-07 20:57:58,809 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:57:58,821 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:57:59,270 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:57:59,282 ] Disconnected from gameserver
+[ 2020-11-07 20:57:59,738 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:58:00,790 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 20:58:00,803 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:58:01,704 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:58:02,920 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:58:03,920 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:58:05,253 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:58:06,270 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:58:08,769 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:58:08,783 ] Disconnected from gameserver
+[ 2020-11-07 20:58:10,100 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 20:58:10,119 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:58:10,502 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:58:10,515 ] Disconnected from gameserver
+[ 2020-11-07 20:58:11,020 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:58:12,047 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 20:58:12,070 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:58:12,936 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 20:58:14,536 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:58:15,568 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:58:16,451 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 20:58:17,468 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:58:18,052 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 20:58:18,251 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:02:45,383 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-07 21:02:45,419 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-07 21:02:45,830 ] Disconnected from gameserver
+[ 2020-11-07 21:02:45,909 ] Disconnected from gameserver
+[ 2020-11-07 21:02:46,164 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:02:46,181 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:05:18,567 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:05:19,972 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 21:05:19,980 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:05:20,920 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:05:22,583 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:05:24,747 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:05:25,002 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 21:05:25,013 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:05:25,764 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:05:25,931 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:05:29,747 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:05:30,430 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:05:30,440 ] Disconnected from gameserver
+[ 2020-11-07 21:05:30,747 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:05:31,958 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 21:05:31,979 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:05:32,764 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:05:35,096 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:05:35,108 ] Disconnected from gameserver
+[ 2020-11-07 21:05:36,642 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 21:05:36,664 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:05:36,714 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:05:37,531 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:05:37,730 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:05:41,096 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:05:42,095 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:05:42,262 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:05:42,272 ] Disconnected from gameserver
+[ 2020-11-07 21:05:43,725 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 21:05:43,750 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:05:44,662 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:05:46,762 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:05:46,773 ] Disconnected from gameserver
+[ 2020-11-07 21:05:48,463 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:05:48,530 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 21:05:48,549 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:05:49,449 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:05:49,480 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:05:50,015 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:05:50,166 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-07 21:05:50,185 ] Disconnected from gameserver
+[ 2020-11-07 21:05:50,332 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:05:50,529 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-07 21:05:50,551 ] Disconnected from gameserver
+[ 2020-11-07 21:07:45,164 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:07:45,493 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 21:07:45,512 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:07:46,434 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:07:47,397 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:07:47,864 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 21:07:47,878 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:07:48,799 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:07:49,578 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:07:50,598 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:07:52,262 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:07:53,311 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:07:54,928 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:07:54,937 ] Disconnected from gameserver
+[ 2020-11-07 21:07:56,353 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 21:07:56,361 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:07:57,244 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:07:57,445 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:07:57,457 ] Disconnected from gameserver
+[ 2020-11-07 21:07:58,935 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 21:07:58,945 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:07:59,829 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:08:00,529 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:08:01,542 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:08:03,311 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:08:04,310 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:08:06,027 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:08:06,038 ] Disconnected from gameserver
+[ 2020-11-07 21:08:07,448 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 21:08:07,462 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:08:08,361 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:08:08,810 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:08:08,821 ] Disconnected from gameserver
+[ 2020-11-07 21:08:10,232 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 21:08:10,242 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:08:11,144 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:08:11,942 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:08:12,943 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:08:14,409 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:08:14,509 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:08:14,592 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-07 21:08:14,614 ] Disconnected from gameserver
+[ 2020-11-07 21:08:14,642 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-07 21:08:14,657 ] Disconnected from gameserver
+[ 2020-11-07 21:08:58,804 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:08:59,217 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 21:08:59,219 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:09:00,167 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:09:01,087 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:09:01,534 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 21:09:01,536 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:09:02,457 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:09:03,553 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:09:04,553 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:09:05,786 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:09:06,785 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:09:08,752 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:09:08,765 ] Disconnected from gameserver
+[ 2020-11-07 21:09:10,259 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 21:09:10,269 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:09:10,836 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:09:10,846 ] Disconnected from gameserver
+[ 2020-11-07 21:09:11,170 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:09:12,197 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 21:09:12,218 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:09:13,137 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:09:14,719 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:09:15,768 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:09:16,785 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:09:17,803 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:09:20,267 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:09:20,278 ] Disconnected from gameserver
+[ 2020-11-07 21:09:21,645 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 21:09:21,668 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:09:22,049 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:09:22,060 ] Disconnected from gameserver
+[ 2020-11-07 21:09:22,567 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:09:23,425 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 21:09:23,434 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:09:24,351 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:09:26,266 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:09:27,283 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:09:27,833 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:09:28,833 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:09:30,266 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:09:30,417 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-07 21:09:30,434 ] Disconnected from gameserver
+[ 2020-11-07 21:09:33,050 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:09:33,061 ] Disconnected from gameserver
+[ 2020-11-07 21:09:33,200 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:09:33,630 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 21:09:33,649 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:09:34,465 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 21:09:34,471 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:09:34,550 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:09:35,084 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:09:35,382 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:09:35,608 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 21:09:35,614 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:09:36,526 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:09:38,265 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:09:39,265 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:09:39,882 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:09:40,898 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:09:43,614 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:09:43,624 ] Disconnected from gameserver
+[ 2020-11-07 21:09:45,032 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:09:45,041 ] Disconnected from gameserver
+[ 2020-11-07 21:09:45,159 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 21:09:45,182 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:09:45,982 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:09:47,581 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 21:09:47,603 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:09:48,514 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:09:49,480 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:09:50,514 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:09:51,798 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:09:52,847 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:09:55,081 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:09:55,092 ] Disconnected from gameserver
+[ 2020-11-07 21:09:56,485 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 21:09:56,498 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:09:56,880 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:09:56,891 ] Disconnected from gameserver
+[ 2020-11-07 21:09:57,397 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:10:00,929 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:10:01,832 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 21:10:01,895 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:10:01,945 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:10:02,780 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:10:03,063 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:10:03,195 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-07 21:10:03,213 ] Disconnected from gameserver
+[ 2020-11-07 21:10:03,229 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-07 21:10:03,249 ] Disconnected from gameserver
+[ 2020-11-07 21:13:46,367 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:13:46,779 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 21:13:46,799 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:13:46,811 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:13:46,884 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-07 21:13:46,897 ] Disconnected from gameserver
+[ 2020-11-07 21:13:47,734 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:14:36,460 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:14:36,855 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 21:14:36,876 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:14:37,771 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:14:38,844 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:14:39,255 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 21:14:39,276 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:14:40,178 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:14:41,226 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:14:42,242 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:14:43,459 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:14:44,460 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:14:46,293 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:14:46,306 ] Disconnected from gameserver
+[ 2020-11-07 21:14:47,771 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 21:14:47,794 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:14:48,543 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:14:48,555 ] Disconnected from gameserver
+[ 2020-11-07 21:14:48,710 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:14:50,075 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 21:14:50,076 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:14:50,942 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:14:51,977 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:14:53,009 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:14:54,708 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:14:55,741 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:14:57,275 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:14:57,285 ] Disconnected from gameserver
+[ 2020-11-07 21:14:57,758 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:14:57,841 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-07 21:14:57,857 ] Disconnected from gameserver
+[ 2020-11-07 21:14:58,664 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 21:14:58,676 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:14:58,678 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:14:58,791 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-07 21:14:58,810 ] Disconnected from gameserver
+[ 2020-11-07 21:14:59,558 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:19:11,260 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:19:11,702 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 21:19:11,709 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:19:12,610 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:19:12,643 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:19:13,031 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 21:19:13,033 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:19:13,945 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:19:15,775 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:19:16,826 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:19:17,458 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:19:18,509 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:19:21,342 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:19:21,349 ] Disconnected from gameserver
+[ 2020-11-07 21:19:22,593 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:19:22,604 ] Disconnected from gameserver
+[ 2020-11-07 21:19:22,838 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 21:19:22,860 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:19:23,723 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:19:24,025 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 21:19:24,026 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:19:24,892 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:19:26,922 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:19:27,923 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:19:28,090 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:19:29,089 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:19:31,989 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:19:31,995 ] Disconnected from gameserver
+[ 2020-11-07 21:19:33,141 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:19:33,152 ] Disconnected from gameserver
+[ 2020-11-07 21:19:33,464 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 21:19:33,475 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:19:34,372 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:19:34,564 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 21:19:34,593 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:19:35,407 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:19:37,521 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:19:38,521 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:19:38,688 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:19:39,687 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:19:42,572 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:19:42,583 ] Disconnected from gameserver
+[ 2020-11-07 21:19:43,737 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:19:43,748 ] Disconnected from gameserver
+[ 2020-11-07 21:19:44,045 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 21:19:44,055 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:19:44,938 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:19:45,130 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 21:19:45,139 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:19:46,021 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:19:48,121 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:19:49,121 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:19:49,237 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:19:50,237 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:19:53,169 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:19:53,177 ] Disconnected from gameserver
+[ 2020-11-07 21:19:54,287 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:19:54,297 ] Disconnected from gameserver
+[ 2020-11-07 21:19:55,780 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 21:19:55,803 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:19:56,640 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:19:56,979 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 21:19:56,987 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:19:57,870 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:20:00,019 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:20:01,086 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:20:01,285 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:20:02,285 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:20:05,346 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:20:05,368 ] Disconnected from gameserver
+[ 2020-11-07 21:20:06,535 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:20:06,545 ] Disconnected from gameserver
+[ 2020-11-07 21:20:10,239 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 21:20:10,252 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:20:11,134 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:20:11,407 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 21:20:11,419 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:20:12,318 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:20:14,619 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:20:15,668 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:20:15,889 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:20:16,933 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:20:19,918 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:20:19,931 ] Disconnected from gameserver
+[ 2020-11-07 21:20:21,433 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:20:21,444 ] Disconnected from gameserver
+[ 2020-11-07 21:20:25,983 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 21:20:26,000 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:20:26,819 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:20:27,319 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 21:20:27,334 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:20:28,233 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:20:28,883 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:20:29,000 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-07 21:20:29,012 ] Disconnected from gameserver
+[ 2020-11-07 21:20:30,615 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:20:31,665 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:20:34,888 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 21:20:34,899 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:20:35,815 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:20:36,214 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:20:36,225 ] Disconnected from gameserver
+[ 2020-11-07 21:20:39,267 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:20:40,281 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:20:42,275 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 21:20:42,280 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:20:43,216 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:20:44,346 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:20:44,353 ] Disconnected from gameserver
+[ 2020-11-07 21:20:46,316 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:20:47,331 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:20:50,494 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 21:20:50,514 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:20:51,380 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:20:51,392 ] Disconnected from gameserver
+[ 2020-11-07 21:20:51,398 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:20:54,812 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:20:55,846 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:20:57,492 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 21:20:57,513 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:20:58,396 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:20:59,895 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:20:59,907 ] Disconnected from gameserver
+[ 2020-11-07 21:21:01,562 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:21:02,580 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:21:05,395 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:21:05,478 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-07 21:21:05,489 ] Disconnected from gameserver
+[ 2020-11-07 21:21:05,866 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 21:21:05,879 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:21:05,881 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:21:05,994 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-07 21:21:06,005 ] Disconnected from gameserver
+[ 2020-11-07 21:21:06,795 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:23:01,848 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:23:02,191 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 21:23:02,212 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:23:03,132 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:23:03,614 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:23:03,995 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 21:23:04,011 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:23:04,930 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:23:06,678 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:23:07,696 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:23:08,645 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:23:09,646 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:23:12,295 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:23:12,306 ] Disconnected from gameserver
+[ 2020-11-07 21:23:13,890 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 21:23:13,913 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:23:14,045 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:23:14,056 ] Disconnected from gameserver
+[ 2020-11-07 21:23:14,728 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:23:15,530 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 21:23:15,544 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:23:16,466 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:23:18,279 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:23:19,294 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:23:20,194 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:23:21,194 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:23:23,494 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:23:23,506 ] Disconnected from gameserver
+[ 2020-11-07 21:23:25,035 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 21:23:25,045 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:23:25,544 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-07 21:23:25,554 ] Disconnected from gameserver
+[ 2020-11-07 21:23:25,910 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:23:26,996 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 21:23:27,010 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:23:27,860 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:23:28,310 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:23:28,344 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:23:36,980 ] Asset loading complete
+[ 2020-11-07 21:23:40,608 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:23:41,119 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 21:23:41,141 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:23:41,154 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:23:42,142 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:23:48,373 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-07 21:23:48,477 ] Disconnected from gameserver
+[ 2020-11-07 21:23:48,756 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:23:49,930 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-07 21:23:49,939 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:23:49,941 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:23:50,957 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:23:51,575 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-07 21:23:51,761 ] Disconnected from gameserver
+[ 2020-11-07 21:23:51,916 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-07 21:23:53,686 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-07 21:23:53,705 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:23:53,708 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-07 21:24:00,156 ] Asset loading complete
+[ 2020-11-08 12:34:19,181 ] Asset loading complete
+[ 2020-11-08 12:34:25,272 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-08 12:34:43,345 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-08 12:34:43,349 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-08 12:34:43,381 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-08 13:14:42,194 ] Asset loading complete
+[ 2020-11-08 13:14:48,710 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-08 13:14:48,888 ] Asset loading complete
+[ 2020-11-08 13:14:49,088 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-08 13:14:49,110 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-08 13:14:50,094 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-08 13:14:53,676 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-08 13:14:54,493 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-08 13:14:54,693 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-08 13:14:54,982 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-08 13:14:55,009 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-08 13:14:56,062 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-08 13:14:56,993 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-08 13:14:57,076 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-08 13:14:57,087 ] Disconnected from gameserver
+[ 2020-11-08 13:14:57,195 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-08 13:19:35,286 ] Asset loading complete
+[ 2020-11-08 13:19:39,756 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-08 13:19:41,706 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-08 13:19:41,742 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-08 13:19:42,657 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-08 13:19:45,806 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-08 13:19:46,805 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-08 13:19:47,823 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-08 13:23:13,562 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-08 13:23:13,658 ] Disconnected from gameserver
+[ 2020-11-08 13:23:14,045 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-08 13:23:51,725 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-08 13:23:52,531 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-08 13:23:52,544 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-08 13:23:52,551 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-08 13:23:53,442 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-08 13:25:28,062 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-08 13:25:28,152 ] Disconnected from gameserver
+[ 2020-11-08 13:25:28,275 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-08 13:25:29,312 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-08 13:25:29,328 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-08 13:25:29,329 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-08 13:25:30,262 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-08 13:25:58,158 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-08 13:25:58,245 ] Disconnected from gameserver
+[ 2020-11-08 13:25:58,395 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-08 13:27:12,814 ] Asset loading complete
+[ 2020-11-08 13:27:20,598 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-08 13:27:21,299 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-08 13:27:21,332 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-08 13:27:22,335 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-08 13:27:25,381 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-08 13:27:26,430 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-08 13:27:28,447 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-08 13:27:36,480 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-08 13:27:36,572 ] Disconnected from gameserver
+[ 2020-11-08 13:27:36,863 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-08 13:27:38,227 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik" )
+[ 2020-11-08 13:27:38,247 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-08 13:27:38,249 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-08 13:27:39,166 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-08 13:27:40,779 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-08 13:27:40,883 ] Disconnected from gameserver
+[ 2020-11-08 13:27:41,008 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-08 13:27:41,656 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-08 13:27:41,677 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-08 13:27:41,690 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-08 13:27:42,628 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-08 13:27:57,726 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-08 13:27:57,816 ] Disconnected from gameserver
+[ 2020-11-08 13:27:57,944 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-08 13:28:00,012 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-08 13:28:00,025 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-08 13:28:00,028 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-08 13:28:00,943 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-08 13:32:10,829 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-08 13:32:10,919 ] Disconnected from gameserver
+[ 2020-11-08 13:32:11,104 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-08 13:40:12,701 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-08 13:40:13,492 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-08 13:40:13,534 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-08 13:40:14,350 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-08 13:40:17,583 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-08 13:40:18,584 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-08 13:40:20,598 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-08 13:51:03,060 ] Asset loading complete
+[ 2020-11-08 13:51:08,667 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-08 13:51:10,188 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-08 13:51:10,217 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-08 13:51:10,219 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-08 13:51:11,317 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-08 13:52:36,128 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-08 13:52:36,141 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-08 13:52:36,483 ] Disconnected from gameserver
+[ 2020-11-08 13:52:36,568 ] Disconnected from gameserver
+[ 2020-11-08 13:52:36,934 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-08 13:52:37,222 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-09 22:37:42,939 ] Asset loading complete
+[ 2020-11-09 22:43:52,445 ] Asset loading complete
+[ 2020-11-09 22:44:28,689 ] Asset loading complete
+[ 2020-11-10 07:23:20,395 ] Asset loading complete
+[ 2020-11-10 07:23:50,100 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-10 07:23:50,575 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-10 07:23:50,599 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-10 07:23:50,614 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-10 07:23:51,600 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-12 15:36:24,741 ] Asset loading complete
+[ 2020-11-12 15:49:10,868 ] News query failed: "Unrecognized event news."
+[ 2020-11-12 15:49:13,325 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-12 15:49:13,343 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-12 15:49:15,401 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-12 15:49:15,451 ] News query failed: "Unrecognized event news."
+[ 2020-11-12 15:49:16,401 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-12 15:49:18,451 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-12 15:49:18,490 ] Disconnected from gameserver
+[ 2020-11-12 15:49:21,929 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-12 15:49:21,931 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-12 15:49:24,002 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-12 15:49:24,119 ] News query failed: "Unrecognized event news."
+[ 2020-11-12 15:49:25,002 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-12 15:49:27,104 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-12 15:49:27,110 ] Disconnected from gameserver
+[ 2020-11-12 15:49:28,308 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-12 15:49:28,311 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-12 15:49:29,286 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-12 15:49:30,353 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-12 15:49:31,352 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-12 15:49:33,403 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-12 15:49:33,413 ] Disconnected from gameserver
+[ 2020-11-12 15:49:34,615 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-12 15:49:34,616 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-12 15:49:35,603 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-12 15:49:36,653 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-12 15:49:37,652 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-12 15:49:39,703 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-12 15:49:39,718 ] Disconnected from gameserver
+[ 2020-11-12 15:49:42,064 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-12 15:49:42,066 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-12 15:49:43,054 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-12 15:49:44,104 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-12 15:49:45,104 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-12 15:49:47,154 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-12 15:49:47,171 ] Disconnected from gameserver
+[ 2020-11-12 15:49:51,786 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-12 15:49:51,837 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-12 15:49:52,770 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-12 15:49:53,854 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-12 15:49:54,854 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-12 15:49:56,904 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-12 15:49:56,910 ] Disconnected from gameserver
+[ 2020-11-12 15:50:02,587 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-12 15:50:02,589 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-12 15:50:02,589 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-12 15:50:03,602 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-12 15:51:06,193 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-12 15:51:06,269 ] Disconnected from gameserver
+[ 2020-11-12 15:51:06,306 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-12 15:51:17,841 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-12 15:51:17,843 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-12 15:51:18,827 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-12 15:51:19,894 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-12 15:51:20,894 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-12 15:51:22,944 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2020-11-12 15:51:22,949 ] Disconnected from gameserver
+[ 2020-11-12 15:51:24,181 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-12 15:51:24,183 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-12 15:51:24,184 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-12 15:51:25,144 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-12 17:56:50,814 ] Asset loading complete
+[ 2020-11-12 17:56:56,595 ] News query failed: "Unrecognized event news."
+[ 2020-11-12 17:56:57,201 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2020-11-12 17:56:57,206 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-12 17:56:57,217 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-12 17:56:58,229 ] News query failed: "Unrecognized event news."
+[ 2020-11-12 17:57:01,429 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-12 17:57:01,499 ] Disconnected from gameserver
+[ 2020-11-12 17:57:01,645 ] News query failed: "Unrecognized event news."
+[ 2020-11-12 17:57:03,955 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik" )
+[ 2020-11-12 17:57:03,957 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-12 17:57:03,958 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-12 17:57:04,930 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-12 17:57:21,431 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-12 17:57:21,501 ] Disconnected from gameserver
+[ 2020-11-12 17:57:21,550 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-12 17:57:23,155 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Krecik On Dexin" )
+[ 2020-11-12 17:57:23,157 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-12 17:57:23,158 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2020-11-12 17:57:24,132 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2020-11-12 17:57:51,282 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2020-11-12 17:57:51,371 ] Disconnected from gameserver
+[ 2020-11-12 17:57:51,434 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.

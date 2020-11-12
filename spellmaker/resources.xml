@@ -1,0 +1,229 @@
+<?xml version="1.0"?>
+<resources>
+	<areaeffects>
+		<effect id="0" name="Drawblood" scriptctx="CONST_ME_DRAWBLOOD"/>
+		<effect id="1" name="Loseenergy" scriptctx="CONST_ME_LOSEENERGY"/>
+		<effect id="2" name="Poff" scriptctx="CONST_ME_POFF"/>
+		<effect id="3" name="Blockhit" scriptctx="CONST_ME_BLOCKHIT"/>
+		<effect id="4" name="Explosionarea" scriptctx="CONST_ME_EXPLOSIONAREA"/>
+		<effect id="5" name="Explosionhit" scriptctx="CONST_ME_EXPLOSIONHIT"/>
+		<effect id="6" name="Firearea" scriptctx="CONST_ME_FIREAREA"/>
+		<effect id="7" name="Yellow rings" scriptctx="CONST_ME_YELLOW_RINGS"/>
+		<effect id="8" name="Green rings" scriptctx="CONST_ME_GREEN_RINGS"/>
+		<effect id="9" name="Hitarea" scriptctx="CONST_ME_HITAREA"/>
+		<effect id="10" name="Teleport" scriptctx="CONST_ME_TELEPORT"/>
+		<effect id="11" name="Energyhit" scriptctx="CONST_ME_ENERGYHIT"/>
+		<effect id="12" name="Magic blue" scriptctx="CONST_ME_MAGIC_BLUE"/>
+		<effect id="13" name="Magic red" scriptctx="CONST_ME_MAGIC_RED"/>
+		<effect id="14" name="Magic green" scriptctx="CONST_ME_MAGIC_GREEN"/>
+		<effect id="15" name="Hitbyfire" scriptctx="CONST_ME_HITBYFIRE"/>
+		<effect id="16" name="Hitbypoison" scriptctx="CONST_ME_HITBYPOISON"/>
+		<effect id="17" name="Mortarea" scriptctx="CONST_ME_MORTAREA"/>
+		<effect id="18" name="Sound green" scriptctx="CONST_ME_SOUND_GREEN"/>
+		<effect id="19" name="Sound red" scriptctx="CONST_ME_SOUND_RED"/>
+		<effect id="20" name="Poisonarea" scriptctx="CONST_ME_POISONAREA"/>
+		<effect id="21" name="Sound yellow" scriptctx="CONST_ME_SOUND_YELLOW"/>
+		<effect id="22" name="Sound purple" scriptctx="CONST_ME_SOUND_PURPLE"/>
+		<effect id="23" name="Sound blue" scriptctx="CONST_ME_SOUND_BLUE"/>
+		<effect id="24" name="Sound white" scriptctx="CONST_ME_SOUND_WHITE"/>
+		<effect id="25" name="Bubbles" scriptctx="CONST_ME_BUBBLES"/>
+		<effect id="26" name="Craps" scriptctx="CONST_ME_CRAPS"/>
+		<effect id="27" name="Gift wraps" scriptctx="CONST_ME_GIFT_WRAPS"/>
+		<effect id="28" name="Firework yellow" scriptctx="CONST_ME_FIREWORK_YELLOW"/>
+		<effect id="29" name="Firework red" scriptctx="CONST_ME_FIREWORK_RED"/>
+		<effect id="30" name="Firework blue" scriptctx="CONST_ME_FIREWORK_BLUE"/>
+		<effect id="31" name="Stun" scriptctx="CONST_ME_STUN"/>
+		<effect id="32" name="Sleep" scriptctx="CONST_ME_SLEEP"/>
+		<effect id="33" name="Watercreature" scriptctx="CONST_ME_WATERCREATURE"/>
+		<effect id="34" name="Groundshaker" scriptctx="CONST_ME_GROUNDSHAKER"/>
+		<effect id="35" name="Hearts" scriptctx="CONST_ME_HEARTS"/>
+		<effect id="36" name="Fireattack" scriptctx="CONST_ME_FIREATTACK"/>
+		<effect id="37" name="Energyarea" scriptctx="CONST_ME_ENERGYAREA"/>
+		<effect id="38" name="Smallclouds" scriptctx="CONST_ME_SMALLCLOUDS"/>
+		<effect id="39" name="Holydamage" scriptctx="CONST_ME_HOLYDAMAGE"/>
+		<effect id="40" name="Bigclouds" scriptctx="CONST_ME_BIGCLOUDS"/>
+		<effect id="41" name="Icearea" scriptctx="CONST_ME_ICEAREA"/>
+		<effect id="42" name="Icetornado" scriptctx="CONST_ME_ICETORNADO"/>
+		<effect id="43" name="Iceattack" scriptctx="CONST_ME_ICEATTACK"/>
+		<effect id="44" name="Stones" scriptctx="CONST_ME_STONES"/>
+		<effect id="45" name="Smallplants" scriptctx="CONST_ME_SMALLPLANTS"/>
+		<effect id="46" name="Carniphila" scriptctx="CONST_ME_CARNIPHILA"/>
+		<effect id="47" name="Purpleenergy" scriptctx="CONST_ME_PURPLEENERGY"/>
+		<effect id="48" name="Yellowenergy" scriptctx="CONST_ME_YELLOWENERGY"/>
+		<effect id="49" name="Holyarea" scriptctx="CONST_ME_HOLYAREA"/>
+		<effect id="50" name="Bigplants" scriptctx="CONST_ME_BIGPLANTS"/>
+		<effect id="51" name="Cake" scriptctx="CONST_ME_CAKE"/>
+		<effect id="52" name="Giantice" scriptctx="CONST_ME_GIANTICE"/>
+		<effect id="53" name="Watersplash" scriptctx="CONST_ME_WATERSPLASH"/>
+		<effect id="54" name="Plantattack" scriptctx="CONST_ME_PLANTATTACK"/>
+		<effect id="55" name="Tutorialarrow" scriptctx="CONST_ME_TUTORIALARROW"/>
+		<effect id="56" name="Tutorialsquare" scriptctx="CONST_ME_TUTORIALSQUARE"/>
+		<effect id="57" name="Mirrorhorizontal" scriptctx="CONST_ME_MIRRORHORIZONTAL"/>
+		<effect id="58" name="Mirrorvertical" scriptctx="CONST_ME_MIRRORVERTICAL"/>
+		<effect id="59" name="Skullhorizontal" scriptctx="CONST_ME_SKULLHORIZONTAL"/>
+		<effect id="60" name="Skullvertical" scriptctx="CONST_ME_SKULLVERTICAL"/>
+		<effect id="61" name="Assassin" scriptctx="CONST_ME_ASSASSIN"/>
+		<effect id="62" name="Stepshorizontal" scriptctx="CONST_ME_STEPSHORIZONTAL"/>
+		<effect id="63" name="Bloodysteps" scriptctx="CONST_ME_BLOODYSTEPS"/>
+		<effect id="64" name="Stepsvertical" scriptctx="CONST_ME_STEPSVERTICAL"/>
+		<effect id="65" name="Yalaharighost" scriptctx="CONST_ME_YALAHARIGHOST"/>
+		<effect id="66" name="Bats" scriptctx="CONST_ME_BATS"/>
+		<effect id="67" name="Smoke" scriptctx="CONST_ME_SMOKE"/>
+		<effect id="68" name="Insects" scriptctx="CONST_ME_INSECTS"/>
+		<effect id="69" name="Dragonhead" scriptctx="CONST_ME_DRAGONHEAD"/>
+		<effect id="70" name="Orcshaman" scriptctx="CONST_ME_ORCSHAMAN"/>
+		<effect id="71" name="Orcshaman fire" scriptctx="CONST_ME_ORCSHAMAN_FIRE"/>
+	</areaeffects>
+	
+	<distanceeffects>
+		<effect id="0" name="Spear" scriptctx="CONST_ANI_SPEAR"/>
+		<effect id="1" name="Bolt" scriptctx="CONST_ANI_BOLT"/>
+		<effect id="2" name="Arrow" scriptctx="CONST_ANI_ARROW"/>
+		<effect id="3" name="Fire" scriptctx="CONST_ANI_FIRE"/>
+		<effect id="4" name="Energy" scriptctx="CONST_ANI_ENERGY"/>
+		<effect id="5" name="Poisonarrow" scriptctx="CONST_ANI_POISONARROW"/>
+		<effect id="6" name="Burstarrow" scriptctx="CONST_ANI_BURSTARROW"/>
+		<effect id="7" name="Throwingstar" scriptctx="CONST_ANI_THROWINGSTAR"/>
+		<effect id="8" name="Throwingknife" scriptctx="CONST_ANI_THROWINGKNIFE"/>
+		<effect id="9" name="Smallstone" scriptctx="CONST_ANI_SMALLSTONE"/>
+		<effect id="10" name="Death" scriptctx="CONST_ANI_DEATH"/>
+		<effect id="11" name="Largerock" scriptctx="CONST_ANI_LARGEROCK"/>
+		<effect id="12" name="Snowball" scriptctx="CONST_ANI_SNOWBALL"/>
+		<effect id="13" name="Powerbolt" scriptctx="CONST_ANI_POWERBOLT"/>
+		<effect id="14" name="Poison" scriptctx="CONST_ANI_POISON"/>
+		<effect id="15" name="Infernalbolt" scriptctx="CONST_ANI_INFERNALBOLT"/>
+		<effect id="16" name="Huntingspear" scriptctx="CONST_ANI_HUNTINGSPEAR"/>
+		<effect id="17" name="Enchantedspear" scriptctx="CONST_ANI_ENCHANTEDSPEAR"/>
+		<effect id="18" name="Redstar" scriptctx="CONST_ANI_REDSTAR"/>
+		<effect id="19" name="Greenstar" scriptctx="CONST_ANI_GREENSTAR"/>
+		<effect id="20" name="Royalspear" scriptctx="CONST_ANI_ROYALSPEAR"/>
+		<effect id="21" name="Sniperarrow" scriptctx="CONST_ANI_SNIPERARROW"/>
+		<effect id="22" name="Onyxarrow" scriptctx="CONST_ANI_ONYXARROW"/>
+		<effect id="23" name="Piercingbolt" scriptctx="CONST_ANI_PIERCINGBOLT"/>
+		<effect id="24" name="Whirlwindsword" scriptctx="CONST_ANI_WHIRLWINDSWORD"/>
+		<effect id="25" name="Whirlwindaxe" scriptctx="CONST_ANI_WHIRLWINDAXE"/>
+		<effect id="26" name="Whirlwindclub" scriptctx="CONST_ANI_WHIRLWINDCLUB"/>
+		<effect id="27" name="Etherealspear" scriptctx="CONST_ANI_ETHEREALSPEAR"/>
+		<effect id="28" name="Ice" scriptctx="CONST_ANI_ICE"/>
+		<effect id="29" name="Earth" scriptctx="CONST_ANI_EARTH"/>
+		<effect id="30" name="Holy" scriptctx="CONST_ANI_HOLY"/>
+		<effect id="31" name="Suddendeath" scriptctx="CONST_ANI_SUDDENDEATH"/>
+		<effect id="32" name="Flasharrow" scriptctx="CONST_ANI_FLASHARROW"/>
+		<effect id="33" name="Flammingarrow" scriptctx="CONST_ANI_FLAMMINGARROW"/>
+		<effect id="34" name="Shiverarrow" scriptctx="CONST_ANI_SHIVERARROW"/>
+		<effect id="35" name="Energyball" scriptctx="CONST_ANI_ENERGYBALL"/>
+		<effect id="36" name="Smallice" scriptctx="CONST_ANI_SMALLICE"/>
+		<effect id="37" name="Smallholy" scriptctx="CONST_ANI_SMALLHOLY"/>
+		<effect id="38" name="Smallearth" scriptctx="CONST_ANI_SMALLEARTH"/>
+		<effect id="39" name="Eartharrow" scriptctx="CONST_ANI_EARTHARROW"/>
+		<effect id="40" name="Explosion" scriptctx="CONST_ANI_EXPLOSION"/>
+		<effect id="41" name="Cake" scriptctx="CONST_ANI_CAKE"/>
+	</distanceeffects>
+	
+	<vocations>
+		<vocation id="0" defaultChecked="0" name="Rooky"/>
+		<vocation id="1" defaultChecked="1" name="Sorcerer"/>
+		<vocation id="2" defaultChecked="1" name="Druid"/>
+		<vocation id="3" defaultChecked="1" name="Paladin"/>
+		<vocation id="4" defaultChecked="1" name="Knight"/>
+		<vocation id="5" defaultChecked="1" name="Master Sorcerer"/>
+		<vocation id="6" defaultChecked="1" name="Elder Druid"/>
+		<vocation id="7" defaultChecked="1" name="Royal Paladin"/>
+		<vocation id="8" defaultChecked="1" name="Elite Knight"/>
+	</vocations>
+	
+	<damagetypes>
+		<damagetype scriptctx="COMBAT_NONE" name="None"/>
+		<damagetype scriptctx="COMBAT_PHYSICALDAMAGE" name="Physical Damage"/>
+		<damagetype scriptctx="COMBAT_ENERGYDAMAGE" name="Energy Damage"/>
+		<damagetype scriptctx="COMBAT_EARTHDAMAGE" name="Earth Damage"/>
+		<damagetype scriptctx="COMBAT_POISONDAMAGE" name="Poison Damage"/>
+		<damagetype scriptctx="COMBAT_FIREDAMAGE" name="Fire Damage"/>
+		<damagetype scriptctx="COMBAT_UNDEFINEDDAMAGE" name="Undefined damage"/>
+		<damagetype scriptctx="COMBAT_LIFEDRAIN" name="Lifedrain"/>
+		<damagetype scriptctx="COMBAT_MANADRAIN" name="Manadrain"/>
+		<damagetype scriptctx="COMBAT_HEALING" name="Healing"/>
+		<damagetype scriptctx="COMBAT_DROWNDAMAGE" name="Drown Damage"/>
+		<damagetype scriptctx="COMBAT_ICEDAMAGE" name="Ice Damage"/>
+		<damagetype scriptctx="COMBAT_HOLYDAMAGE" name="Holy Damage"/>
+		<damagetype scriptctx="COMBAT_DEATHDAMAGE" name="Death Damage"/>
+	</damagetypes>
+	
+	<conditions>
+		<condition name="Poison" scriptctx="CONDITION_POISON"/>
+		<condition name="Fire" scriptctx="CONDITION_FIRE"/>
+		<condition name="Energy" scriptctx="CONDITION_ENERGY"/>
+		<condition name="Bleeding" scriptctx="CONDITION_BLEEDING"/>
+		<condition name="Haste" scriptctx="CONDITION_HASTE"/>
+		<condition name="Paralyze" scriptctx="CONDITION_PARALYZE"/>
+		<condition name="Outfit" scriptctx="CONDITION_OUTFIT"/>
+		<condition name="Invisible" scriptctx="CONDITION_INVISIBLE"/>
+		<condition name="Light" scriptctx="CONDITION_LIGHT"/>
+		<condition name="Manashield" scriptctx="CONDITION_MANASHIELD"/>
+		<condition name="Infight" scriptctx="CONDITION_INFIGHT"/>
+		<condition name="Drunk" scriptctx="CONDITION_DRUNK"/>
+		<condition name="Exhaust" scriptctx="CONDITION_EXHAUST"/>
+		<condition name="Food" scriptctx="CONDITION_FOOD"/>
+		<condition name="Regeneration" scriptctx="CONDITION_REGENERATION"/>
+		<condition name="Soul" scriptctx="CONDITION_SOUL"/>
+		<condition name="Drown" scriptctx="CONDITION_DROWN"/>
+		<condition name="Muted" scriptctx="CONDITION_MUTED"/>
+		<condition name="Attributes" scriptctx="CONDITION_ATTRIBUTES"/>
+		<condition name="Freezing" scriptctx="CONDITION_FREEZING"/>
+		<condition name="Dazzled" scriptctx="CONDITION_DAZZLED"/>
+		<condition name="Cursed" scriptctx="CONDITION_CURSED"/>
+		<condition name="Pacafied" scriptctx="CONDITION_PACIFIED"/>
+		<condition name="Gamemaster" scriptctx="CONDITION_GAMEMASTER"/>
+		<condition name="Hunting" scriptctx="CONDITION_HUNTING"/>
+		<condition name="Spellcooldown" scriptctx="CONDITION_SPELLCOOLDOWN"/>
+	</conditions>
+	
+	<conditionparams>
+		<conditionparam name="Owner" scriptctx="CONDITION_PARAM_OWNER" ignore="1"/>
+		<conditionparam name="Ticks" scriptctx="CONDITION_PARAM_TICKS"/>
+		<conditionparam name="Outfit" scriptctx="CONDITION_PARAM_OUTFIT"/>
+		<conditionparam name="Healthgain" scriptctx="CONDITION_PARAM_HEALTHGAIN"/>
+		<conditionparam name="Healthticks" scriptctx="CONDITION_PARAM_HEALTHTICKS"/>
+		<conditionparam name="Managain" scriptctx="CONDITION_PARAM_MANAGAIN"/>
+		<conditionparam name="Manaticks" scriptctx="CONDITION_PARAM_MANATICKS"/>
+		<conditionparam name="Delayed" scriptctx="CONDITION_PARAM_DELAYED"/>
+		<conditionparam name="Speed" scriptctx="CONDITION_PARAM_SPEED"/>
+		<conditionparam name="Light level" scriptctx="CONDITION_PARAM_LIGHT_LEVEL"/>
+		<conditionparam name="Light color" scriptctx="CONDITION_PARAM_LIGHT_COLOR"/>
+		<conditionparam name="Soulgain" scriptctx="CONDITION_PARAM_SOULGAIN"/>
+		<conditionparam name="Soulticks" scriptctx="CONDITION_PARAM_SOULTICKS"/>
+		<conditionparam name="Minvalue" scriptctx="CONDITION_PARAM_MINVALUE" ignore="1"/>
+		<conditionparam name="Maxvalue" scriptctx="CONDITION_PARAM_MAXVALUE" ignore="1"/>
+		<conditionparam name="Startvalue" scriptctx="CONDITION_PARAM_STARTVALUE" ignore="1"/>
+		<conditionparam name="Tickinterval" scriptctx="CONDITION_PARAM_TICKINTERVAL" ignore="1"/>
+		<conditionparam name="Forceupdate" scriptctx="CONDITION_PARAM_FORCEUPDATE" ignore="1"/>
+		<conditionparam name="Skill melee" scriptctx="CONDITION_PARAM_SKILL_MELEE"/>
+		<conditionparam name="Skill fist" scriptctx="CONDITION_PARAM_SKILL_FIST"/>
+		<conditionparam name="Skill club" scriptctx="CONDITION_PARAM_SKILL_CLUB"/>
+		<conditionparam name="Skill sword" scriptctx="CONDITION_PARAM_SKILL_SWORD"/>
+		<conditionparam name="Skill axe" scriptctx="CONDITION_PARAM_SKILL_AXE"/>
+		<conditionparam name="Skill distance" scriptctx="CONDITION_PARAM_SKILL_DISTANCE"/>
+		<conditionparam name="Skill shield" scriptctx="CONDITION_PARAM_SKILL_SHIELD"/>
+		<conditionparam name="Skill fishing" scriptctx="CONDITION_PARAM_SKILL_FISHING"/>
+		<conditionparam name="Stat maxhealth" scriptctx="CONDITION_PARAM_STAT_MAXHEALTH"/>
+		<conditionparam name="Stat maxmana" scriptctx="CONDITION_PARAM_STAT_MAXMANA"/>
+		<conditionparam name="Stat soul" scriptctx="CONDITION_PARAM_STAT_SOUL"/>
+		<conditionparam name="Stat magiclevel" scriptctx="CONDITION_PARAM_STAT_MAGICLEVEL"/>
+		<conditionparam name="Stat maxhealthpercent" scriptctx="CONDITION_PARAM_STAT_MAXHEALTHPERCENT"/>
+		<conditionparam name="Stat maxmanapercent" scriptctx="CONDITION_PARAM_STAT_MAXMANAPERCENT"/>
+		<conditionparam name="Stat soulpercent" scriptctx="CONDITION_PARAM_STAT_SOULPERCENT"/>
+		<conditionparam name="Stat magiclevelpercent" scriptctx="CONDITION_PARAM_STAT_MAGICLEVELPERCENT"/>
+		<conditionparam name="Skill meleepercent" scriptctx="CONDITION_PARAM_SKILL_MELEEPERCENT"/>
+		<conditionparam name="Skill fistpercent" scriptctx="CONDITION_PARAM_SKILL_FISTPERCENT"/>
+		<conditionparam name="Skill clubpercent" scriptctx="CONDITION_PARAM_SKILL_CLUBPERCENT"/>
+		<conditionparam name="Skill swordpercent" scriptctx="CONDITION_PARAM_SKILL_SWORDPERCENT"/>
+		<conditionparam name="Skill axepercent" scriptctx="CONDITION_PARAM_SKILL_AXEPERCENT"/>
+		<conditionparam name="Skill distancepercent" scriptctx="CONDITION_PARAM_SKILL_DISTANCEPERCENT"/>
+		<conditionparam name="Skill shieldpercent" scriptctx="CONDITION_PARAM_SKILL_SHIELDPERCENT"/>
+		<conditionparam name="Skill fishingpercent" scriptctx="CONDITION_PARAM_SKILL_FISHINGPERCENT"/>
+		<conditionparam name="Periodicdamage" scriptctx="CONDITION_PARAM_PERIODICDAMAGE" ignore="1"/>
+		<conditionparam name="Buff" scriptctx="CONDITION_PARAM_BUFF" ignore="1"/>
+		<conditionparam name="Subid" scriptctx="CONDITION_PARAM_SUBID" ignore="1"/>
+		<conditionparam name="Field" scriptctx="CONDITION_PARAM_FIELD" ignore="1"/>
+	</conditionparams>
+</resources>

@@ -1,0 +1,216 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Tibia11Editor-master\\Google.Protobuf.Conformance\\Google.Protobuf.Conformance.csproj": {}
+  },
+  "projects": {
+    "D:\\Tibia11Editor-master\\Google.Protobuf.Conformance\\Google.Protobuf.Conformance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Tibia11Editor-master\\Google.Protobuf.Conformance\\Google.Protobuf.Conformance.csproj",
+        "projectName": "Google.Protobuf.Conformance",
+        "projectPath": "D:\\Tibia11Editor-master\\Google.Protobuf.Conformance\\Google.Protobuf.Conformance.csproj",
+        "packagesPath": "C:\\Users\\Root\\.nuget\\packages\\",
+        "outputPath": "D:\\Tibia11Editor-master\\Google.Protobuf.Conformance\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp1.0": {
+            "projectReferences": {
+              "D:\\Tibia11Editor-master\\Google.Protobuf.Test\\Google.Protobuf.Test.csproj": {
+                "projectPath": "D:\\Tibia11Editor-master\\Google.Protobuf.Test\\Google.Protobuf.Test.csproj"
+              },
+              "D:\\Tibia11Editor-master\\Google.Protobuf\\Google.Protobuf.csproj": {
+                "projectPath": "D:\\Tibia11Editor-master\\Google.Protobuf\\Google.Protobuf.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.0.5, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Tibia11Editor-master\\Google.Protobuf.Test\\Google.Protobuf.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Tibia11Editor-master\\Google.Protobuf.Test\\Google.Protobuf.Test.csproj",
+        "projectName": "Google.Protobuf.Test",
+        "projectPath": "D:\\Tibia11Editor-master\\Google.Protobuf.Test\\Google.Protobuf.Test.csproj",
+        "packagesPath": "C:\\Users\\Root\\.nuget\\packages\\",
+        "outputPath": "D:\\Tibia11Editor-master\\Google.Protobuf.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\Root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net451",
+          "netcoreapp1.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp1.0": {
+            "projectReferences": {
+              "D:\\Tibia11Editor-master\\Google.Protobuf\\Google.Protobuf.csproj": {
+                "projectPath": "D:\\Tibia11Editor-master\\Google.Protobuf\\Google.Protobuf.csproj"
+              }
+            }
+          },
+          "net451": {
+            "projectReferences": {
+              "D:\\Tibia11Editor-master\\Google.Protobuf\\Google.Protobuf.csproj": {
+                "projectPath": "D:\\Tibia11Editor-master\\Google.Protobuf\\Google.Protobuf.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.0.5, )",
+              "autoReferenced": true
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnitLite": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        },
+        "net451": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnitLite": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Tibia11Editor-master\\Google.Protobuf\\Google.Protobuf.csproj": {
+      "version": "3.5.1",
+      "restore": {
+        "projectUniqueName": "D:\\Tibia11Editor-master\\Google.Protobuf\\Google.Protobuf.csproj",
+        "projectName": "Google.Protobuf",
+        "projectPath": "D:\\Tibia11Editor-master\\Google.Protobuf\\Google.Protobuf.csproj",
+        "packagesPath": "C:\\Users\\Root\\.nuget\\packages\\",
+        "outputPath": "D:\\Tibia11Editor-master\\Google.Protobuf\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\Root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45",
+          "netstandard1.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          },
+          "netstandard1.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        },
+        "netstandard1.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
