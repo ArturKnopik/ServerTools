@@ -1,0 +1,6 @@
+<settings>
+	<clients>
+		<client version="1098" description="Client 10.98" otbversion="57" datsignature="42A3" sprsignature="57BBD603"/>
+		<client version="1251" description="Client 12.51" otbversion="62" datsignature="4A10" sprsignature="59E48E02"/>
+	</clients>
+</settings>
